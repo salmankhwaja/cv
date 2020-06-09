@@ -69,9 +69,10 @@ career-profile:
     - Technical Writting / Social Media Management / SEO / Wordpress
     - Continuous Integration / Delivery using Team City / TFS
     - Application Security using Kaali, Manual Web Penetration Testing
-    - ISO 9001:2008 QMS,
+    - ISO 9001:2008 QMS
     - ISO 27001 QMS 
 education:
+
     - degree: Certified Ethical Hacking and Counter Measures in Field Of Study Information Security
       university:  Riphah International University
       time: 2017 – 2017
@@ -80,7 +81,7 @@ education:
     - degree: M.Sc. Computer Science.
       university:  Mohammad Ali Jinnah University (MAJU)
       time: 2007 – 2013
-      details: | 
+      details: |
       The Master of Computer Science provided me an opportunity to broaden my base of knowledge and increase their research capabilities
       in a specific area of computer science, particularly in Software controls, which relates to Quality Engineering / Audits and now Releases. 
       In addition, this course allowed me to perform research and development in my chosen field as Thesis. The Thesis was a analysis on topic 
@@ -103,9 +104,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Manager Application Security 
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: TPS Pakistan Pvt. Limited (https://tpsworldwide.com/)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,28 +119,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  
 projects:
     title: Projects
     intro: >
@@ -193,10 +173,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Application Security
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SevDevOps Implementation
         level: 98%
 
       - name: Angular
